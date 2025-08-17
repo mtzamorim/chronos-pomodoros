@@ -4,10 +4,10 @@ import { CountDown } from './components/CountDown';
 import { Cycles } from './components/Cycles';
 import { DefaultButton } from './components/DefaultButton';
 import { DefaultInput } from './components/DefaultInput';
+import { Footer } from './components/Footer';
 import { Logo } from './components/Logo';
 import { Menu } from './components/Menu';
 
-import { Footer } from './components/Footer';
 import './styles/global.css';
 import './styles/theme.css';
 
